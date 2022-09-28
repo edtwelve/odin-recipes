@@ -1,0 +1,1 @@
+This is the first project I'm uploading to the hub on my own. It's about a recipe and it showcases my abilities in HTML and CSS so far.
